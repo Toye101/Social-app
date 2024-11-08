@@ -76,3 +76,4 @@ const styles = StyleSheet.create({
     fontSize: hp[1.6],
   },
 });
+
